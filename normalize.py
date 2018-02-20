@@ -6,3 +6,4 @@ def demean(arr):
 
     arr_demeaned = arr - np.mean(arr)
     return arr_demeaned
+
