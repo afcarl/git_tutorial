@@ -1,7 +1,5 @@
 # git_tutorial
-Materials for git(hub) tutorial for Simon van Gaal's lab
+Materials (slides) and example files for the git(hub) tutorial for Simon van Gaal's lab
 
-## ToDiscuss
-- [ ] Git essentials: init, add, commit, branch
-- [ ] Github essentials: push, pull, clone, fork
-- [ ] Github extras: documentation (markdown), continuous integration, websites
+## Contents
+The `normalize.py` file contains some dummy code to demean (i.e., subtract the mean from) arrays.
